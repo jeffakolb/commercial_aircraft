@@ -1,0 +1,46 @@
+NH,ANA,All Nippon Airways,https://en.wikipedia.org/wiki/All_Nippon_Airways  
+DL,DAL,Delta Air Lines,https://en.wikipedia.org/wiki/Delta_Air_Lines_fleet
+AA,AAL,American Airlines,https://en.wikipedia.org/wiki/American_Airlines_fleet
+UA,UAL,United Airlines,https://en.wikipedia.org/wiki/United_Airlines_fleet 
+WN,SWA,Southwest Airlines,https://en.wikipedia.org/wiki/Southwest_Airlines
+NZ,ANZ,Air New Zealand,https://en.wikipedia.org/wiki/Air_New_Zealand_fleet   
+AZ,AZA,Alitalia,https://en.wikipedia.org/wiki/Alitalia  
+BA,BAW,British Airways,https://en.wikipedia.org/wiki/British_Airways
+AF,AFR,Air France,https://en.wikipedia.org/wiki/Air_France
+KL,KLM,KLM,https://en.wikipedia.org/wiki/KLM 
+AS,ASA,Alaska Airlines,https://en.wikipedia.org/wiki/Alaska_Airlines   
+BR,EVA,EVA Air,https://en.wikipedia.org/wiki/EVA_Air
+AC,ACA,Air Canada,https://en.wikipedia.org/wiki/Air_Canada
+LH,DLH,Lufthansa,https://en.wikipedia.org/wiki/Lufthansa
+QF,QFA,Qantas,https://en.wikipedia.org/wiki/Qantas
+EK,UAE,Emirates,https://en.wikipedia.org/wiki/Emirates_fleet
+HA,HAL,Hawaiian Airlines,https://en.wikipedia.org/wiki/Hawaiian_Airlines
+EY,ETD,Etihad Airways,https://en.wikipedia.org/wiki/Etihad_Airways 
+QR,QTR,Qatar Airways,https://en.wikipedia.org/wiki/Qatar_Airways  
+VS,VIR,Virgin Atlantic,https://en.wikipedia.org/wiki/Virgin_Atlantic   
+JL,JAL,Japan Airlines,https://en.wikipedia.org/wiki/Japan_Airlines
+CZ,CSN,China Southern Airlines,https://en.wikipedia.org/wiki/China_Southern_Airlines
+MU,CES,China Eastern Airlines,https://en.wikipedia.org/wiki/China_Eastern_Airlines
+IB,IBE,Iberia,https://en.wikipedia.org/wiki/Iberia_(airline)
+FR,RYR,Ryanair,https://en.wikipedia.org/wiki/Ryanair 
+U2,EZY,EasyJet,https://en.wikipedia.org/wiki/EasyJet
+TK,THY,Turkish Airlines,https://en.wikipedia.org/wiki/Turkish_Airlines 
+CA,CCA,Air China,https://en.wikipedia.org/wiki/Air_China
+MS,MSR,EgyptAir,https://en.wikipedia.org/wiki/EgyptAir
+SU,AFL,Aeroflot,https://en.wikipedia.org/wiki/Aeroflot
+TP,TAP,TAP Air Portugal,https://en.wikipedia.org/wiki/TAP_Portugal
+SK,SAS,Scandinavian Airlines,https://en.wikipedia.org/wiki/Scandinavian_Airlines 
+AY,FIN,Finnair,https://en.wikipedia.org/wiki/Finnair
+DY,NAX,Norwegian Air Shuttle,https://en.wikipedia.org/wiki/Norwegian_Air_Shuttle 
+DU,NLH,Norwegian Long Haul,https://en.wikipedia.org/wiki/Norwegian_Long_Haul
+B6,JBU,JetBlue,https://en.wikipedia.org/wiki/JetBlue
+ET,ETH,Ethiopian Airlines,https://en.wikipedia.org/wiki/Ethiopian_Airlines
+SA,SAA,South African Airways,https://en.wikipedia.org/wiki/South_African_Airways  
+AT,RAM,Royal Air Maroc,https://en.wikipedia.org/wiki/Royal_Air_Maroc 
+LA,LAN,LATAM Chile,https://en.wikipedia.org/wiki/LATAM_Chile  
+4M,DSM,LATAM Argentina,https://en.wikipedia.org/wiki/LATAM_Argentina  
+CM,CMP,Copa Airlines,https://en.wikipedia.org/wiki/Copa_Airlines 
+KE,KAL,Korean Air,https://en.wikipedia.org/wiki/Korean_Air  
+IR,IRA,Iran Air,https://en.wikipedia.org/wiki/Iran_Air   
+D7,XAX,AirAsia X,https://en.wikipedia.org/wiki/AirAsia_X  
+WW,WOW,WOW air,https://en.wikipedia.org/wiki/WOW_air  
