@@ -2,7 +2,7 @@ NH,ANA,All Nippon Airways,https://en.wikipedia.org/wiki/All_Nippon_Airways
 DL,DAL,Delta Air Lines,https://en.wikipedia.org/wiki/Delta_Air_Lines_fleet
 AA,AAL,American Airlines,https://en.wikipedia.org/wiki/American_Airlines_fleet
 UA,UAL,United Airlines,https://en.wikipedia.org/wiki/United_Airlines_fleet 
-WN,SWA,Southwest Airlines,https://en.wikipedia.org/wiki/Southwest_Airlines
+WN,SWA,Southwest Airlines,https://en.wikipedia.org/wiki/Southwest_Airlines_fleet
 NZ,ANZ,Air New Zealand,https://en.wikipedia.org/wiki/Air_New_Zealand_fleet   
 AZ,AZA,Alitalia,https://en.wikipedia.org/wiki/Alitalia  
 BA,BAW,British Airways,https://en.wikipedia.org/wiki/British_Airways
