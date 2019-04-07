@@ -44,3 +44,4 @@ KE,KAL,Korean Air,https://en.wikipedia.org/wiki/Korean_Air
 IR,IRA,Iran Air,https://en.wikipedia.org/wiki/Iran_Air   
 D7,XAX,AirAsia X,https://en.wikipedia.org/wiki/AirAsia_X  
 WW,WOW,WOW air,https://en.wikipedia.org/wiki/WOW_air  
+LX,SWR,Swiss,https://en.wikipedia.org/wiki/Swiss_International_Air_Lines
