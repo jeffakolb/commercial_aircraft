@@ -45,3 +45,37 @@ IR,IRA,Iran Air,https://en.wikipedia.org/wiki/Iran_Air
 D7,XAX,AirAsia X,https://en.wikipedia.org/wiki/AirAsia_X  
 WW,WOW,WOW air,https://en.wikipedia.org/wiki/WOW_air  
 LX,SWR,Swiss,https://en.wikipedia.org/wiki/Swiss_International_Air_Lines
+LO,LOT,LOT Polish Airlines,https://en.wikipedia.org/wiki/LOT_Polish_Airlines
+SQ,SIA,Singapore Airlines,https://en.wikipedia.org/wiki/Singapore_Airlines_fleet
+OZ,AAR,Asiana Airlines,https://en.wikipedia.org/wiki/Asiana_Airlines
+HU,CHH,Hainan Airlines,https://en.wikipedia.org/wiki/Hainan_Airlines
+WS,WJA,WestJet,https://en.wikipedia.org/wiki/WestJet
+JT,LNI,Lion Air,https://en.wikipedia.org/wiki/Lion_Air
+OS,AUA,Austrian Airlines,https://en.wikipedia.org/wiki/Austrian_Airlines
+GA,GIA,Garuda Indonesia,https://en.wikipedia.org/wiki/Garuda_Indonesia
+W6,WZZ,Wizz Air,https://en.wikipedia.org/wiki/Wizz_Air
+VY,VLG,Vueling,https://en.wikipedia.org/wiki/Vueling
+AV,AVA,Avianca,https://en.wikipedia.org/wiki/Avianca
+AD,AZU,Azul Brazilian Airlines,https://en.wikipedia.org/wiki/Azul_Brazilian_Airlines
+JJ,TAM,LATAM Brazil,https://en.wikipedia.org/wiki/LATAM_Brasil
+LA,ARE,LATAM Columbia,https://en.wikipedia.org/wiki/LATAM_Colombia
+LP,LPE,LATAM Peru,https://en.wikipedia.org/wiki/LATAM_Per%C3%BA
+EI,EIN,Aer Lingus,https://en.wikipedia.org/wiki/Aer_Lingus
+SY,SCX,Sun Country Airlines,https://en.wikipedia.org/wiki/Sun_Country_Airlines
+F9,FFT,Frontier Airlines,https://en.wikipedia.org/wiki/Frontier_Airlines
+G4,AAY,Allegiant Air,https://en.wikipedia.org/wiki/Allegiant_Air
+CP,CPZ,Compass Airlines,https://en.wikipedia.org/wiki/Compass_Airlines_(North_America)
+YV,ASH,Mesa Airlines,https://en.wikipedia.org/wiki/Mesa_Airlines
+PT,PDT,Piedmont Airlines,https://en.wikipedia.org/wiki/Piedmont_Airlines
+OH,JIA,PSA Airlines,https://en.wikipedia.org/wiki/PSA_Airlines
+YX,RPA,Republic Airline,https://en.wikipedia.org/wiki/Republic_Airline
+OO,SKW,SkyWest Airlines,https://en.wikipedia.org/wiki/SkyWest_Airlines
+AX,LOF,Trans States Airlines,https://en.wikipedia.org/wiki/Trans_States_Airlines
+9E,EDV,Endeavour Air,https://en.wikipedia.org/wiki/Endeavor_Air
+ZW,AWI,Air Wisconsin,https://en.wikipedia.org/wiki/Air_Wisconsin
+9K,KAP,Cape Air,https://en.wikipedia.org/wiki/Cape_Air
+C5,UCA,CommutAir,https://en.wikipedia.org/wiki/CommutAir
+EV,ASQ,ExpressJet,https://en.wikipedia.org/wiki/ExpressJet
+QX,QXE,Horizon Air,https://en.wikipedia.org/wiki/Horizon_Air
+G7,GJS,GoJet Airlines,https://en.wikipedia.org/wiki/GoJet_Airlines
+MQ,ENY,Envoy Air,https://en.wikipedia.org/wiki/Envoy_Air
