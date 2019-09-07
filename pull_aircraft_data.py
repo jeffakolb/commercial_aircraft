@@ -49,15 +49,17 @@ header = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWe
 
 def get_fleet_table(table):
     for table_child in table.children:  
-        #if table_child.name == "caption":
-        #    logging.debug(table_child)
         if table_child.name == "tbody":
             return get_fleet_table(table_child)
 
         # find a tr child of table, with the correct properties
         if table_child.name == 'tr':
+            logging.debug('Found a tr child')
             # get the th elements in tr
             cells = table_child.find_all('th')
+            logging.debug('It has ' + str(len(cells)) + ' cells, containing:')
+            for cell in cells:
+                logging.debug(cell.contents)
             # ensure there are enough cells in th
             if len(cells) < 3:
                 continue
@@ -66,8 +68,8 @@ def get_fleet_table(table):
             orders_str = cells[2].contents[0]
             if aircraft_str.string is None or orders_str.string is None:
                 continue
-            if aircraft_str.string.lower().strip('\n').strip() == "aircraft" and \
-                orders_str.string.lower().strip('\n').strip() == "orders":
+            if aircraft_str.string.lower().strip('\n').strip() == "aircraft" or \
+                aircraft_str.string.lower().strip('\n').strip() == "type":
                 return table
     return None
     
