@@ -1,23 +1,23 @@
-NH,ANA,All Nippon Airways,https://en.wikipedia.org/wiki/All_Nippon_Airways  
+NH,ANA,All Nippon Airways,https://en.wikipedia.org/wiki/All_Nippon_Airways_fleet
 DL,DAL,Delta Air Lines,https://en.wikipedia.org/wiki/Delta_Air_Lines_fleet
 AA,AAL,American Airlines,https://en.wikipedia.org/wiki/American_Airlines_fleet
 UA,UAL,United Airlines,https://en.wikipedia.org/wiki/United_Airlines_fleet 
 WN,SWA,Southwest Airlines,https://en.wikipedia.org/wiki/Southwest_Airlines_fleet
 NZ,ANZ,Air New Zealand,https://en.wikipedia.org/wiki/Air_New_Zealand_fleet   
 AZ,AZA,Alitalia,https://en.wikipedia.org/wiki/Alitalia  
-BA,BAW,British Airways,https://en.wikipedia.org/wiki/British_Airways
-AF,AFR,Air France,https://en.wikipedia.org/wiki/Air_France
-KL,KLM,KLM,https://en.wikipedia.org/wiki/KLM 
-AS,ASA,Alaska Airlines,https://en.wikipedia.org/wiki/Alaska_Airlines   
+BA,BAW,British Airways,https://en.wikipedia.org/wiki/British_Airways_fleet
+AF,AFR,Air France,https://en.wikipedia.org/wiki/Air_France_fleet
+KL,KLM,KLM,https://en.wikipedia.org/wiki/KLM_fleet
+AS,ASA,Alaska Airlines,https://en.wikipedia.org/wiki/Alaska_Airlines_fleet
 BR,EVA,EVA Air,https://en.wikipedia.org/wiki/EVA_Air
-AC,ACA,Air Canada,https://en.wikipedia.org/wiki/Air_Canada
-LH,DLH,Lufthansa,https://en.wikipedia.org/wiki/Lufthansa
-QF,QFA,Qantas,https://en.wikipedia.org/wiki/Qantas
+AC,ACA,Air Canada,https://en.wikipedia.org/wiki/Air_Canada_fleet
+LH,DLH,Lufthansa,https://en.wikipedia.org/wiki/Lufthansa_fleet
+QF,QFA,Qantas,https://en.wikipedia.org/wiki/Qantas_fleet
 EK,UAE,Emirates,https://en.wikipedia.org/wiki/Emirates_fleet
 HA,HAL,Hawaiian Airlines,https://en.wikipedia.org/wiki/Hawaiian_Airlines
-EY,ETD,Etihad Airways,https://en.wikipedia.org/wiki/Etihad_Airways 
+EY,ETD,Etihad Airways,https://en.wikipedia.org/wiki/Etihad_Airways_fleet 
 QR,QTR,Qatar Airways,https://en.wikipedia.org/wiki/Qatar_Airways  
-VS,VIR,Virgin Atlantic,https://en.wikipedia.org/wiki/Virgin_Atlantic   
+VS,VIR,Virgin Atlantic,https://en.wikipedia.org/wiki/Virgin_Atlantic_fleet   
 JL,JAL,Japan Airlines,https://en.wikipedia.org/wiki/Japan_Airlines
 CZ,CSN,China Southern Airlines,https://en.wikipedia.org/wiki/China_Southern_Airlines
 MU,CES,China Eastern Airlines,https://en.wikipedia.org/wiki/China_Eastern_Airlines
@@ -27,14 +27,14 @@ U2,EZY,EasyJet,https://en.wikipedia.org/wiki/EasyJet
 TK,THY,Turkish Airlines,https://en.wikipedia.org/wiki/Turkish_Airlines 
 CA,CCA,Air China,https://en.wikipedia.org/wiki/Air_China
 MS,MSR,EgyptAir,https://en.wikipedia.org/wiki/EgyptAir
-SU,AFL,Aeroflot,https://en.wikipedia.org/wiki/Aeroflot
+SU,AFL,Aeroflot,https://en.wikipedia.org/wiki/Aeroflot_fleet
 TP,TAP,TAP Air Portugal,https://en.wikipedia.org/wiki/TAP_Portugal
 SK,SAS,Scandinavian Airlines,https://en.wikipedia.org/wiki/Scandinavian_Airlines 
 AY,FIN,Finnair,https://en.wikipedia.org/wiki/Finnair
 DY,NAX,Norwegian Air Shuttle,https://en.wikipedia.org/wiki/Norwegian_Air_Shuttle 
 DU,NLH,Norwegian Long Haul,https://en.wikipedia.org/wiki/Norwegian_Long_Haul
 B6,JBU,JetBlue,https://en.wikipedia.org/wiki/JetBlue
-ET,ETH,Ethiopian Airlines,https://en.wikipedia.org/wiki/Ethiopian_Airlines
+ET,ETH,Ethiopian Airlines,https://en.wikipedia.org/wiki/Ethiopian_Airlines_fleet
 SA,SAA,South African Airways,https://en.wikipedia.org/wiki/South_African_Airways  
 AT,RAM,Royal Air Maroc,https://en.wikipedia.org/wiki/Royal_Air_Maroc 
 LA,LAN,LATAM Chile,https://en.wikipedia.org/wiki/LATAM_Chile  
